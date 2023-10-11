@@ -6,4 +6,4 @@
 
 ## Main technologies
 
-![javascript]./img/javascript.png) ![react]./img/react.png) ![nodejs]./img/node.png) ![python]./img/python.png) ![mongo]./img/mongo.png) ![mysql]./img/mysql.png)
+![javascript](./img/javascript.png) ![react](./img/react.png) ![nodejs](./img/node.png) ![python](./img/python.png) ![mongo](./img/mongo.png) ![mysql](./img/mysql.png)
