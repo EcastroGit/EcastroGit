@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m Esteban Castro.
 * 💻 I’m interested in full-stack web development.
-* 🌱 I’m interested in learning new backend technologies and libraries for building secure, scalable, and performant apps.
+* 🌱 I’m interested in exploring backend technologies for building secure, scalable, and performant apps.
 
 ## Tech Stack
 
